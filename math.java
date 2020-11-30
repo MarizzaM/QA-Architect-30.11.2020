@@ -12,6 +12,15 @@ public class Main {
 
         System.out.println("y1= "+y1);
         System.out.println("z1= "+z1);
+        
+        // use short syntax
+        int s1 = 1;
+        s1++;
+        s1 *= 10;
+        s1 /= 3;
+        s1 -= 2;
+        
+        System.out.println("s1= "+s1);
 
     }
 }
